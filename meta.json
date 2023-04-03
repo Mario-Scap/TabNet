@@ -1,0 +1,8 @@
+{
+    "name": "TabNet FL",
+    "resource_spec" : {},
+    "min_clients" : 4,
+    "deploy_map": {
+        "app": [ "@ALL"]
+    }    
+}
